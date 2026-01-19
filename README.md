@@ -1,5 +1,4 @@
 <h1 align="left">Hi!👋</h1>
-<h3 align="left">My name is Oleksii and I'm Unity 3D Developer</h3>
 
 <h3 align="left">About this repository:</h3>
 <p align="left">
