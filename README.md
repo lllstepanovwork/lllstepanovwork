@@ -1,15 +1,17 @@
 <h1 align="left">Hi!👋</h1>
+<h3 align="left">My name is Oleksii and I'm Unity 3D Developer</h3>
 
-<h3 align="left">About this profile:</h3>
+<h3 align="left">About this repository:</h3>
 <p align="left">
 This GitHub repository contains a collection of my Unity clone projects, created to practice gameplay mechanics, explore different systems, and improve my skills as a Unity 3D Developer.
 </p>
 
-<h3 align="left">Feel free to connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lllstepanov" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lllstepanov" height="30" width="40" />
-</a>
+🔗 LinkedIn: <a href="https://linkedin.com/in/lllstepanov" target="_blank">linkedin.com/in/lllstepanov</a>
+</p>
+<p align="left">
+📧 Email: <a href="mailto:lllstepanovwork@gmail.com">lllstepanovwork@gmail.com</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
