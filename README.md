@@ -1,8 +1,8 @@
 <h1 align="left">Hi!👋</h1>
 
-<h3 align="left">About this repository:</h3>
+<h3 align="left">About this profile:</h3>
 <p align="left">
-This GitHub repository contains a collection of my Unity clone projects, created to practice gameplay mechanics, explore different systems, and improve my skills as a Unity 3D Developer.
+This GitHub profile contains a collection of my Unity clone projects, created to practice gameplay mechanics, explore different systems, and improve my skills as a Unity 3D Developer.
 </p>
 
 <h3 align="left">Connect with me:</h3>
