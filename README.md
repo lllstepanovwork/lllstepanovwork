@@ -13,6 +13,6 @@ My name is Oleksii Stepanov, a Unity Developer currently based in Poland. This G
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  Email: <a href="mailto:lllstepanovwork@gmail.com">lllstepanovwork@gmail.com</a>
-  LinkedIn: <a href="https://linkedin.com/in/lllstepanov" target="_blank">linkedin.com/in/lllstepanov</a><br>
+  Email: <a href="mailto:lllstepanovwork@gmail.com">lllstepanovwork@gmail.com</a><br>
+  LinkedIn: <a href="https://linkedin.com/in/lllstepanov" target="_blank">linkedin.com/in/lllstepanov</a>
 </p>
