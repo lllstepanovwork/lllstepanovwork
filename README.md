@@ -12,6 +12,13 @@ My name is Oleksii Stepanov, a Unity Developer currently based in Poland. This G
 📧 Email: <a href="mailto:lllstepanovwork@gmail.com">lllstepanovwork@gmail.com</a>
 </p>
 
+<h3 align="left">Some stuff I build:</h3>
+
+<ul align="left">
+  <li><a href="https://github.com/lllstepanovwork/clone-project-bingo-blitz" target="_blank">🎱 Bingo Blitz Clone</a></li>
+  <li><a href="https://github.com/lllstepanovwork/clone-project-catris" target="_blank">😻 Catris Clone</a></li>
+</ul>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
