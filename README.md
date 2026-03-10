@@ -4,6 +4,12 @@
 My name is Oleksii Stepanov, a Unity Developer currently based in Poland. This GitHub profile contains a collection of my Unity clone projects, created to practice gameplay mechanics, explore different systems, and improve my skills as a Unity 3D Developer.
 </p>
 
+<h3 align="left">Personal projects:</h3>
+
+<ul align="left">
+  <li><a href="https://github.com/lllstepanovwork/osg-battleship" target="_blank">🚢 Battleship</a></li>
+</ul>
+
 <h3 align="left">My clone projects:</h3>
 
 <ul align="left">
